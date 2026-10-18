@@ -1,6 +1,0 @@
-Student Name: Razak Nadaf
-Roll No: 2638
-
-
-GitHub Repository:
-https://github.com/RazakNadaf/2638_RazakNadaf_B3_A4_MoreFeatursOfOOP.git
