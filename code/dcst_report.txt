@@ -1,0 +1,47 @@
+==========================================================
+         DCST NIRF DATA REPORT (GOA UNIVERSITY)           
+==========================================================
+Generated: Sun Oct 18 23:18:58 IST 2026
+Total Members (Static Count): 9
+
+1. PROGRAMS OFFERED:
+   * MCA | Master of Computer Applications (2 Yrs, 80 Credits)
+   * MSCAI | M.Sc. Artificial Intelligence (2 Yrs, 80 Credits)
+   * MSCDS | M.Sc. Data Science (2 Yrs, 80 Credits)
+   * IMSC | Integrated M.Sc. in Computer Science (5 Yrs, 200 Credits)
+
+2. STUDENTS (4 Total):
+   * STU-2023-01 | Rahul Naik | MCA | Year 2 | CGPA: 8.75 | VERIFIED (Ready for NIRF)
+   * STU-2023-02 | Sneha Fernandes | MCA | Year 2 | CGPA: 9.1 | VERIFIED (Ready for NIRF)
+   * STU-2024-03 | Aman Sawant | MSC_AI | Year 1 | CGPA: 8.4 | VERIFIED (Ready for NIRF)
+   * STU-2024-04 | Divya Borkar | MSC_DS | Year 1 | CGPA: 8.95 | VERIFIED (Ready for NIRF)
+
+3. TEACHING FACULTY (3 Total):
+   * FAC-101 | Dr. V. V. Kamat | Professor | Graphics & Systems
+   * FAC-102 | Dr. Jyoti Pawar | Professor & Dean | Data Mining & NLP
+   * FAC-103 | Dr. Ramdas Karmali | Associate Professor | Networks & Security
+
+4. NON-TEACHING STAFF (2 Total):
+   * STF-201 | Sanjay Parab | System Administrator | Network and Lab Systems
+   * STF-202 | Pooja Gaonkar | Laboratory Assistant | Equipment Maintenance
+
+5. ACADEMIC ACTIVITIES (5 Total):
+   * ACT-ACAD-01 | Continuous ISA-1 & ISA-2 Tests | Year 2023 | ACADEMIC
+   * ACT-ACAD-02 | Midpoint Project Review | Year 2024 | ACADEMIC
+   * ACT-ACAD-03 | Semester End Assessment (SEA) | Year 2024 | ACADEMIC
+   * ACT-ACAD-04 | Industrial IT Study Tour | Year 2024 | CO_CURRICULAR
+   * ACT-ACAD-05 | Campus Placement Drive | Year 2025 | PLACEMENT
+
+6. NON-ACADEMIC ACTIVITIES (3 Total):
+   * ACT-NONACAD-01 | InfoFest State Tech Fiesta | Year 2023 | NON_ACADEMIC
+   * ACT-NONACAD-02 | Plateaunia Cultural Championship | Year 2024 | NON_ACADEMIC
+   * ACT-NONACAD-03 | Play-on Annual Sports Meet | Year 2025 | NON_ACADEMIC
+
+7. SUBJECTS (6 Total, Set Verified):
+   * CST-501 - Advanced Java Programming & OOP (Sem 1, 4 Cr, Lab)
+   * CST-502 - Data Structures & Algorithms (Sem 1, 4 Cr, Lab)
+   * CST-503 - Relational Database Management Systems (Sem 1, 4 Cr, Lab)
+   * CST-504 - Machine Learning & Neural Networks (Sem 2, 4 Cr, Lab)
+   * CST-505 - Cloud Computing & DevOps (Sem 2, 3 Cr, Lab)
+   * CST-506 - Software Engineering & Agile (Sem 2, 3 Cr, Theory)
+==========================================================
